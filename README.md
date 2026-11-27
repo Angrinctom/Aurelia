@@ -1,6 +1,6 @@
 # Aurelia | Skincare Information Website
 
-Aurelia Botanics is a responsive, educational skincare website designed
+Aurelia is a responsive, educational skincare website designed
 to make everyday skincare knowledge easier to understand. Instead of
 selling products, the website provides beginner-friendly information
 about skincare essentials, common ingredients, skin types, and simple
@@ -15,7 +15,7 @@ explanations.
 
 ### Website Sections
 
--   **Home:** Introduces Aurelia Botanics and guides visitors to the
+-   **Home:** Introduces Aurelia and guides visitors to the
     main learning sections.
 -   **About:** Explains the purpose of the website and its focus on
     accessible skincare education.
@@ -112,5 +112,5 @@ You can adapt the project by:
 
 ------------------------------------------------------------------------
 
-**Aurelia Botanics** --- Thoughtful skincare information for everyday
+**Aurelia** --- Thoughtful skincare information for everyday
 confidence.
